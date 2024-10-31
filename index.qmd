@@ -1,0 +1,10 @@
+---
+title: "My Project Homepage"
+format: 
+  html:
+    embed-resources: true
+---
+
+This is my project homepage. 
+
+Here is my analysis <https://lisalevinson.github.io/husband2022/analysis/myanalysis.html>
